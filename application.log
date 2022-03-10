@@ -1,0 +1,10 @@
+2022-03-09 19:52:11  001  error  Error message
+2022-03-09 19:52:11  001  error  Error message
+2022-03-09 19:52:11  002  info  Info message
+2022-03-09 19:52:11  002  info  Info message
+2022-03-09 19:52:11  003  debug  Debug message
+2022-03-09 19:52:11  003  debug  Debug message
+2022-03-09 19:52:11  004  notice  Notice message
+2022-03-09 19:52:11  004  notice  Notice message
+2022-03-09 19:52:11  002  info  Info message from FileHandler
+2022-03-09 19:52:11  002  info  Info message from FileHandler
